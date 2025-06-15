@@ -1,6 +1,4 @@
-# A Comprehensive Guide to Using Shodan & Censys
-
-# A Comprehensive Guide to Using Shodan & Censys
+# A Comprehensive OSINT Guide to Mastering Shodan, Censys, and Google Dorks or Google Hacking
 
 **Shodan** and **Censys** are search engines used to find internet-connected devices and services, such as servers, cameras, and networking equipment. They are primarily used for security analysis and discovering vulnerabilities in internet-connected systems.
 
